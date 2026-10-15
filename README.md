@@ -21,7 +21,7 @@ Desafio Criativo da DIO sobre AI Data Marketing Creator. O objetivo é sair do a
 
 - [Google Docs (acesso público)](https://docs.google.com/document/d/1xvFNV6cgkqd6bkdohK7OXQPWjmflwad-qfuuBEaJzk4/edit?usp=sharing)
 - [Versão em PDF](matriz-diagnostico-governanca.pdf)
-- Dados fictícios por trás da análise no ficheiro posts_linkedin_simulados.csv
+- Dados fictícios por trás da análise no ficheiro posts_linkedin_simulados.csv  
 
 ## Ferramentas
 
